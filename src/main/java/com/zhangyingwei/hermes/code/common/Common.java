@@ -1,0 +1,9 @@
+package com.zhangyingwei.hermes.code.common;
+
+/**
+ * Created by zhangyw on 2016/9/28.
+ */
+public class Common {
+    public static final String URL_CODELIST = "https://git.oschina.net/zhangyingwei/codes";
+    public static final String COOKIE = "_user_behavior_=3033b668-27f1-4669-a602-5a1d3151988c; user_locale=zh-CN; remote_way=http; oscid=kR6pcUh9wQ2KYtrpJVM%2BUs4EBQ%2B32TmMH5yl6aMyHDND9gYUw4OVwYI9xs5x%2B3Vuku%2B1h51DD%2B8F2K04qwbP9U8gOkgcSg%2Bc30urP2lbojLMwLc5YpOTNT%2Fp5bSLoeUKPW6hHiZully2YZC4lD9OBw%3D%3D; remove_bulletin=no_autumn_ad; Hm_lvt_a411c4d1664dd70048ee98afe7b28f0b=1474523004,1474958051,1474958181,1475026110; Hm_lpvt_a411c4d1664dd70048ee98afe7b28f0b=1475027914; aliyungf_tc=AQAAADqKjG467gcA3r6UPQIcwFD5jhhl; git_osc_session=BAh7CUkiD3Nlc3Npb25faWQGOgZFVEkiJTljYTljYzVmMzVmOTkzNGU4MWE3NzQzYmVlOWEyNzc1BjsAVEkiGXdhcmRlbi51c2VyLnVzZXIua2V5BjsAVFsHWwZpAxvzBEkiIiQyYSQxMCRNVTFZMWRSMEdvaUZST2xULlFvU2Z1BjsAVEkiCmZsYXNoBjsAVG86JUFjdGlvbkRpc3BhdGNoOjpGbGFzaDo6Rmxhc2hIYXNoCToKQHVzZWRvOghTZXQGOgpAaGFzaHsGOgtub3RpY2VUOgxAY2xvc2VkRjoNQGZsYXNoZXN7BjsKSSIS55m75b2V5oiQ5YqfLgY7AFQ6CUBub3cwSSIQX2NzcmZfdG9rZW4GOwBGSSIxWk1QVmpOUXNrcVo3aG9oVDlOM2FKNGpwcDB1anJtbjVSRjF1ak5UMVZ1Yz0GOwBG--fa4c01cc936b5f886e65132c1ddd7e56db88cf47";
+}
